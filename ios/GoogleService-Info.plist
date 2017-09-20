@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>627916846779-i9b2o7iifdh4htldlbca14jco1eiioln.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.627916846779-i9b2o7iifdh4htldlbca14jco1eiioln</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsH0G8bZhqtnnaRvnRp0qQKrD2-JXE2k4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>627916846779</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.genetay.Groover</string>
+	<key>PROJECT_ID</key>
+	<string>the-groover</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-groover.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:627916846779:ios:9e0f0a80c1491b11</string>
+	<key>DATABASE_URL</key>
+	<string>https://the-groover.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/danielgenetay/Project/TheGroover/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/danielgenetay/Project/TheGroover/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/danielgenetay/Project/TheGroover/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/danielgenetay/Project/TheGroover/node_modules/react-native/React/Base/RCTReloadCommand.h
